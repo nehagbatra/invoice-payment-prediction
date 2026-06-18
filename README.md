@@ -1,6 +1,6 @@
 # Invoice Payment Prediction
 # inserted by ng
-
+# inserted by pa
 
 Data mining project to predict late payment using decision tree algorithms. The problem was modeled in three steps:
 
